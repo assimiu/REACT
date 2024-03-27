@@ -1,0 +1,27 @@
+.Tema{
+    flex: 1;
+    border: 3px solid #000;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: 10px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+}
+
+.Tema .titulo{
+    margin: 0px;
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.Tema .corpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+
+}

@@ -4,4 +4,5 @@ body{
     font-weight: 300;
     color: #fff;
     text-align: center;
+    background: linear-gradient(to right, rgb(20, 30, 48), rgb(36, 59, 85));
 }
